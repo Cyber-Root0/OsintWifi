@@ -23,4 +23,4 @@ OsintWifi - Tool de Geolocalização De Pontos Wifi
 
 ## Redes Sociais (Contato):
 
-Email: boteistem@gmail.com
+Email: boteistem@yandex.com
